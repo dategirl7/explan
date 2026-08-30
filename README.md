@@ -1,0 +1,2 @@
+# explan
+gitignore tells git 
